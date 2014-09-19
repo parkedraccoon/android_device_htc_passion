@@ -62,7 +62,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 
 #more CM mods
 
-#TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3/bin/arm-eabi-
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-linux-linaro-4.9/bin/arm-eabi-
 
 LEGACY_RIL := true
 BOARD_USES_LEGACY_RIL := true
